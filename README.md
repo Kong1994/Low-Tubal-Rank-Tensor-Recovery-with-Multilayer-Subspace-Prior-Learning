@@ -5,7 +5,7 @@ code for following paper:
 ### Requirements
 This data of yaleB01.mat and news.mat can get from the [[NetDisk]](https://pan.baidu.com/s/1fKpHkhQKaqIuRMa-fm8CmA) (Password:m1jo) 
 ### Citation
-If you find the code helpful in your resarch or work, please cite ours papers.
+If you find the code helpful in your resarch or work, please cite our papers.
 
 </pre></div>
 
